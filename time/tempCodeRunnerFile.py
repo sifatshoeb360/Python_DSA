@@ -1,0 +1,1 @@
+print(time.strptime('%y'))
